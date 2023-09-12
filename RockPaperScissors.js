@@ -139,15 +139,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-//     console.log("RESULT: ");
-//     console.log("Your Point :" + userPoint);
-//     console.log("Computer Point :" +computerPoint);
-//     pointChecking();
-
-
-
-
-
-
-
 
